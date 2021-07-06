@@ -58,3 +58,16 @@ h1 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#baby-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 94, 0), rgb(179, 255, 0));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
